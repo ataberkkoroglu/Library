@@ -1,5 +1,5 @@
 # Library
-Generating a Triangle Using the Number Given by My Own Library
+Generating a Triangle with Given The Number using My Own Library and Linker
 If You Want To Use These Files except Main.exe, follow these Steps:
 
 1. Download Repo.

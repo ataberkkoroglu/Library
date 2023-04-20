@@ -13,8 +13,8 @@ If You Want To Use These Files except Main.exe, follow these Steps:
    compilation terminated.
   If You see that,pass to fifth step.
   
-5. Write gcc -c Triangle.c Main.c-)
-6. Write gcc -o Main.exe Triangle.o Main.o-)
+5. Write gcc -c Triangle.c Main.c
+6. Write gcc -o Main.exe Triangle.o Main.o
 7. Write Main.exe For Executing.
 8. Anymore, you can use Main.c without editor.
  

@@ -10,7 +10,7 @@ If You Want To Use These Files except Main.exe, follow these Steps:
   #Sample:
   C:\Users\asus\Desktop\Library>gcc
    gcc: fatal error: no input files
-   compilation terminated.
+   compilation terminated.\n
   If You see that,pass to fifth step.
   
 5. Write gcc -c Triangle.c Main.c-)
